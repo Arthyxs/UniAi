@@ -1,0 +1,7 @@
+{
+  "name": "Uni Personal Assistant",
+  "description": "A voice-controlled personal assistant with a clean, Google Nest-inspired interface. It provides weather, news, media controls, and more, all accessible through natural voice commands.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
